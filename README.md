@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME:POCHI REDDP.P</H3>
+<H3>ENTER YOUR NAME:POCHI REDDY.P</H3>
 <H3>REGISTER NO:212223240115</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:13-05-2025</H3>
+<H3>DATE:13-04-2025</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
